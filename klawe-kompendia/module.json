@@ -2,7 +2,7 @@
   "id": "klawe-kompendia",
   "title": "Klawe Kompendia",
   "version": "0.2.2",
-  "manifest": "https://github.com/Wujekklawy/Klawe-Kompendia/edit/main/klawe-kompendia/module.json#L7C20"
+  "manifest": "https://github.com/Wujekklawy/Klawe-Kompendia/edit/main/klawe-kompendia/module.json#L7C20",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
