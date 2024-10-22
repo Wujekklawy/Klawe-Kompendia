@@ -1,7 +1,7 @@
 {
   "id": "klawe-kompendia",
   "title": "Klawe Kompendia",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "manifest": "https://raw.githubusercontent.com/Wujekklawy/Klawe-Kompendia/main/klawe-kompendia/module.json",
   "download": "https://github.com/Wujekklawy/Klawe-Kompendia/releases/download/v0.3.0/Klawe-Kompendia-v0.3.0.zip",
   "compatibility": {
