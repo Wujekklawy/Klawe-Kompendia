@@ -3,7 +3,7 @@
   "title": "Klawe Kompendia",
   "version": "0.3.1",
   "manifest": "https://raw.githubusercontent.com/Wujekklawy/Klawe-Kompendia/main/klawe-kompendia/module.json",
-  "download": "https://github.com/Wujekklawy/Klawe-Kompendia/releases/download/v0.3.0/klawe-kompendia.rar",
+  "download": "https://github.com/Wujekklawy/Klawe-Kompendia/releases/download/v0.3.0/klawe-kompendia.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
