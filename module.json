@@ -6,7 +6,7 @@
   "download": "https://github.com/Wujekklawy/Klawe-Kompendia/releases/download/v0.4.0/klawe-kompendia.zip",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
