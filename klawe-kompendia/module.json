@@ -3,7 +3,7 @@
   "title": "Klawe Kompendia",
   "version": "0.3.0",
   "manifest": "https://raw.githubusercontent.com/Wujekklawy/Klawe-Kompendia/refs/heads/main/klawe-kompendia/module.json",
-  "download": "https://github.com/Wujekklawy/Klawe-Kompendia/releases/download/v0.3.0/Klawe-Kompendia-v0.3.0.zip",
+  "download": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/869873238/f107a582-be93-4129-a345-b9cdfa522a00?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T171136Z&X-Amz-Expires=300&X-Amz-Signature=78b200352311ac589c31fc7127524b7bfeaee750084fe8b327bd883f1823f13d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B filename%3DKlawe-Kompendia-v0.3.0.zip&response-content-type=application%2Foctet-stream",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
