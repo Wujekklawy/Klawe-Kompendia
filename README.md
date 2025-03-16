@@ -1,5 +1,6 @@
 ## Overview
 [PL] Moduł dodający rzeczy z książek ułatwiający granie z fizycznymi książkami oraz pdf'ami.
+
 [EN] Module that adds stuff from books to help play with physical books and pdf's
 
 ## Features
