@@ -12,6 +12,7 @@
 - Premade PC Character Sheets (Future)
 
 ## Installation
+via Foundry VTT (sugested)
 To install the module, follow these steps:
 
 1. Open Foundry VTT and navigate to the **Add-on Modules** tab.
@@ -21,7 +22,6 @@ To install the module, follow these steps:
    https://raw.githubusercontent.com/Wujekklawy/Klawe-Kompendia/main/module.json
    ```
 4. Click **Install** and enable the module in your world settings.
-5. Due to known bug of foundry not liking polish symbols if donwloaded via Foundry in ".../data/modules/klawe-kompendia" folder with a broken name should be named "Ilustracje przedmiotów", if not changed all of the items will not be displaying an icon.
 
    
 or Manual Installation:
@@ -32,8 +32,8 @@ or Manual Installation:
 
 ## Usage
 1. Once installed, remember to activate it on your world.
-2. It is sugested to use Library to search for anything included.
-3. Only exeption is macros and boch cards that bth need to be imported directly from a Compendium.
+2. It is sugested to use Library via liblary instead of compendiums.
+3. Only exeption is macros and boch cards that both need to be imported directly from a Compendium.
 
 ## Configuration
 - If you have duplicate books you can delete them from the Compendiums.
